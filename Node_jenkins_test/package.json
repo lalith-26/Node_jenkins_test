@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lalith-26/Node_jenkins_test#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "mocha": "1.20.1",
